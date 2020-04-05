@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Circle">
+        <attr name="circle_color" format="color"/>
+        <attr name="circle_lable" format="string"/>
+        <attr name="label_color" format="color"/>
+        <attr name="circle_radius" format="integer"/>
+    </declare-styleable>
+</resources>
